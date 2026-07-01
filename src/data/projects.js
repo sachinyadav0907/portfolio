@@ -80,7 +80,7 @@ const projects = [
       {
         type: "swagger",
         label: "API Docs",
-        url: "#",
+        url: "https://secure-auth-api-7mm7.onrender.com/api-docs",
       },
     ],
   },
